@@ -1,0 +1,14 @@
+版本号：1.0.1
+维护者：V-Lipset
+更新时间：2025-09-22
+
+// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Seo Inwoo = 徐 仁宇
+Yook Dongsik = 陆 东植
+Seo Jihun = 徐 智勋
+Shim Bokyung = 沈 宝景
+Seo Chunghyeon = 徐宗贤
+Yook Dongchan = 陆东灿
